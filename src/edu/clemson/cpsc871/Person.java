@@ -1,6 +1,7 @@
 package edu.clemson.cpsc871;
 
 /*
+What is happening here
 */
 public class Person {
 
