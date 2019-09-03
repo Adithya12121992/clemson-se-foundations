@@ -1,9 +1,6 @@
 package edu.clemson.cpsc871;
 
-/* Javadoc comment goes here describing succinctly what the class
-   does/represents.
-   Consult this for some ref material on writing proper Javadocs:
-   https://www.oracle.com/technetwork/java/javase/documentation/index-137868.html
+/*
 */
 public class Person {
 
@@ -12,6 +9,7 @@ public class Person {
     }
 
     private final GenderType g;
+
 
     private final String name;
     private int age;
